@@ -1,6 +1,9 @@
 # 💫 About Me:
--  Hi, I’m @it-VEGA<br>-  I’m interested in Python Development,Javascript,React,Vue,Pinia,HTML/CSS,Sass/SCSS, Bootstrap 5,Vuetify<br>-  I’m currently learning Javascript/React/Vue<br>-  I'm looking for a co-mentor<br>-  How to reach me -> www.instagram.com/vega12947220
-
+- 👋 Hi, I’m @it-VEGA
+- 👀 I’m interested in Python Development,Javascript,React,Vue,Pinia,HTML/CSS,Sass/SCSS, Bootstrap 5,Vuetify
+- 🌱 I’m currently learning Javascript/React/Vue
+- 💞️ I'm looking for a co-mentor
+- 📫 How to reach me -> www.instagram.com/vega12947220
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vega12947220) 
